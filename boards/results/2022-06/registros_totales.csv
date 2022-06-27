@@ -1,0 +1,74 @@
+,categoria_x,Cantidad de registros totales por categoria,fuente,Cantidad de registros totales por fuente,provincia,categoria_y,Cantidad de registros por provincia y categoría
+0,Bibliotecas Populares,2017.0,CONABIP,2010.0,Buenos Aires,Bibliotecas Populares,543
+1,Espacios de Exhibición Patrimonial,1182.0,DNPyM,1048.0,Santa Fe,Bibliotecas Populares,272
+2,Salas de cine,329.0,INCAA / SInCA,329.0,Córdoba,Bibliotecas Populares,185
+3,,,Municipalidad de Santa Fe - Red de Ciudades Creativas,37.0,Santa Fe,Espacios de Exhibición Patrimonial,162
+4,,,RCC- Córdoba,31.0,Buenos Aires,Espacios de Exhibición Patrimonial,152
+5,,,Gobierno de la Provincia,14.0,Ciudad Autónoma de Buenos Aires,Espacios de Exhibición Patrimonial,132
+6,,,RCC,10.0,Córdoba,Espacios de Exhibición Patrimonial,126
+7,,,Secretaria de Cultura Provincial,6.0,Buenos Aires,Salas de cine,106
+8,,,Área Gestión Cultural de la Municipalidad de Colonia Caroya,4.0,La Pampa,Bibliotecas Populares,72
+9,,,Red de Espacios Culturales Vicente López,4.0,Chaco,Bibliotecas Populares,70
+10,,,Gobierno de la Provincia de Mendoza,4.0,Neuquén,Bibliotecas Populares,70
+11,,,Gobierno de la Provincia de Jujuy,4.0,Santiago del Estero,Bibliotecas Populares,67
+12,,,Municipalidad de Río Gallegos - Red de Ciudades Creativas,4.0,Mendoza,Bibliotecas Populares,67
+13,,,Gobierno de la Provincia de Chubut / SInCA 2013,3.0,Río Negro,Bibliotecas Populares,66
+14,,,Gobierno de la Provincia de San Juan,3.0,Salta,Bibliotecas Populares,64
+15,,,Dirección de Cultura de Villa Allende,2.0,Mendoza,Espacios de Exhibición Patrimonial,63
+16,,,Municipalidad de Puerto Madryn,2.0,Corrientes,Bibliotecas Populares,58
+17,,,SInCA,1.0,Entre Ríos,Bibliotecas Populares,58
+18,,,Secretaria de Cultura del Municipio de Esteban Echeverría,1.0,Entre Ríos,Espacios de Exhibición Patrimonial,57
+19,,,UNLA,1.0,San Juan,Bibliotecas Populares,54
+20,,,CNMLH - Enlace SInCA,1.0,Chubut,Bibliotecas Populares,48
+21,,,Gobierno de la provincia,1.0,Jujuy,Espacios de Exhibición Patrimonial,47
+22,,,CNMLH - Ente Cultural de Tucumán,1.0,San Luis,Bibliotecas Populares,45
+23,,,Gobierno de la Provincia de Neuquén,1.0,Chubut,Espacios de Exhibición Patrimonial,45
+24,,,Gobierno de la Provincia de La Rioja,1.0,La Pampa,Espacios de Exhibición Patrimonial,45
+25,,,Gobierno de la Provincia de La Pampa,1.0,Ciudad Autónoma de Buenos Aires,Bibliotecas Populares,43
+26,,,Gob. Pcia.,1.0,Misiones,Bibliotecas Populares,40
+27,,,Dirección de Cultura y de Educación de la Municipalidad de Unquillo,1.0,Jujuy,Bibliotecas Populares,40
+28,,,Dirección Provincial de Patrimonio Cultural - Enlace SInCA,1.0,Neuquén ,Espacios de Exhibición Patrimonial,39
+29,,,Gobierno de la Provincia de Salta,1.0,Catamarca,Bibliotecas Populares,38
+30,,,,,Tucumán,Bibliotecas Populares,37
+31,,,,,Salta,Espacios de Exhibición Patrimonial,36
+32,,,,,Ciudad Autónoma de Buenos Aires,Salas de cine,35
+33,,,,,Córdoba,Salas de cine,35
+34,,,,,Chaco,Espacios de Exhibición Patrimonial,33
+35,,,,,Misiones,Espacios de Exhibición Patrimonial,32
+36,,,,,Catamarca,Espacios de Exhibición Patrimonial,32
+37,,,,,San Luis,Espacios de Exhibición Patrimonial,31
+38,,,,,Tucumán,Espacios de Exhibición Patrimonial,26
+39,,,,,Formosa,Bibliotecas Populares,25
+40,,,,,La Rioja,Bibliotecas Populares,24
+41,,,,,Santa Fe,Salas de cine,23
+42,,,,,San Juan,Espacios de Exhibición Patrimonial,23
+43,,,,,Santa Cruz,Bibliotecas Populares,21
+44,,,,,Santa Cruz,Espacios de Exhibición Patrimonial,20
+45,,,,,Río Negro,Espacios de Exhibición Patrimonial,19
+46,,,,,La Rioja,Espacios de Exhibición Patrimonial,17
+47,,,,,Mendoza,Salas de cine,16
+48,,,,,Corrientes,Espacios de Exhibición Patrimonial,14
+49,,,,,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Espacios de Exhibición Patrimonial,14
+50,,,,,Entre Ríos,Salas de cine,13
+51,,,,,Santiago del Estero,Espacios de Exhibición Patrimonial,10
+52,,,,,Salta,Salas de cine,10
+53,,,,,Chubut,Salas de cine,9
+54,,,,,Tierra del Fuego,Bibliotecas Populares,9
+55,,,,,Tucumán,Salas de cine,8
+56,,,,,Corrientes,Salas de cine,8
+57,,,,,Río Negro,Salas de cine,7
+58,,,,,Formosa,Espacios de Exhibición Patrimonial,7
+59,,,,,San Juan,Salas de cine,6
+60,,,,,Misiones,Salas de cine,6
+61,,,,,La Pampa,Salas de cine,6
+62,,,,,La Rioja,Salas de cine,5
+63,,,,,Santiago del Estero,Salas de cine,5
+64,,,,,Neuquén,Salas de cine,5
+65,,,,,Santa Cruz,Salas de cine,5
+66,,,,,Chaco,Salas de cine,4
+67,,,,,Jujuy,Salas de cine,4
+68,,,,,Catamarca,Salas de cine,4
+69,,,,,San Luis,Salas de cine,4
+70,,,,,Tierra del Fuego,Salas de cine,3
+71,,,,,Formosa,Salas de cine,2
+72,,,,,Santa Fé,Bibliotecas Populares,1
